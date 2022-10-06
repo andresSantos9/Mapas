@@ -1,0 +1,63 @@
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEditor.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEngine.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEngine.xml
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEditor.xml
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEditor.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEngine.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEngine.xml
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEditor.xml
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\obj\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEditor.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEngine.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEngine.xml
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEditor.xml
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\obj\Debug\Assembly-CSharp-firstpass.csprojResolveAssemblyReference.cache
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\obj\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\dei-admin\Desktop\VRMaps Andres\VR Samples\obj\Debug\Assembly-CSharp-firstpass.pdb

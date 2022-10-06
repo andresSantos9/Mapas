@@ -1,0 +1,64 @@
+--------------------------------------------------------------------------------
+                            Cómo probar el proyecto
+--------------------------------------------------------------------------------
+Este proyecto solo tiene una escena, Main. En dicha escena, se encuentra una
+demo donde el usuario puede buscar varias localizaciones dispuestas en distintos
+puntos de un mapa.
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+                                Interacción
+--------------------------------------------------------------------------------
+La interacción funciona con las Oculus Rift Consumer Edition 2016, el Xbox One
+Wireless Controller y el teclado. Para mirar de un lado a otro, se inclina la
+cabeza (lo que se conoce como "gaze input"). Para hacer zoom in en el mapa, se
+presiona el trigger derecho del Xbox One Wireless Controller, o la tecla "O" del
+teclado. Para hacer zoom out en el mapa, se presiona el trigger izquierdo del
+Xbox One Wireless Controller, o la tecla "U del teclado". Para desplazar el mapa
+arriba / abajo / izquierda / derecha se inclina el joystick derecho del Xbox One
+Wireless Controller, o se pulsan las teclas del teclado "I", "K", "J" y "L",
+respectivamente. Para salir del Game View y volver a la vista de edición en
+Unity, se pulsa la tecla "Q" del teclado.
+--------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+--------------------------------------------------------------------------------
+                                    TODO
+--------------------------------------------------------------------------------
+Hay varias partes del proyecto por finalizar.
+
+He creado prefabs de marcadores compatibles con la interacción para las Oculus
+Rift Consumer Edition 2016, y al hacer click sobre éstos se muestra un mensaje
+donde se indica que se ha encontrado dicho marcador, pero no he sido capaz de
+generarlos por medio de scripts en el mapa de modo que estén superpuestos con
+respecto de los marcadores de la imagen.
+
+También quedaría leer marcadores de la base de datos que creó Teresa y añadirlos
+a la lista "markers", que puede encontrarse en el script "GoogleMap.cs" (aunque
+esto es relativamente fácil de implementar).
+
+Otra funcionalidad que queda por implementar es la de crear polígonos tal y como
+se han creado en la base de datos de Teresa. De nuevo esto es relativamente
+sencillo en comparación con el problema de la traducción mapa 2D - mundo 3D de
+los marcadores.
+
+Por último, faltaría borrar todos aquellos archivos innecesarios (como scripts,
+prefabs, texturas...) que fueron importados junto con otras utilidades del
+proyecto "VR Samples" de Unity. No obstante, he intentado borrar toda la
+funcionalidad extra que he podido, especialmente en los scripts que he creado.
+(Recuerdo que todos los scripts importantes, o al menos aquellos en los que yo
+he trabajado, se encuentran en la carpeta Scripts del proyecto).
+--------------------------------------------------------------------------------

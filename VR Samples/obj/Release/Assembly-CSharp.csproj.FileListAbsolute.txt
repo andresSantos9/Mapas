@@ -1,0 +1,2 @@
+C:\Users\dei-admin\Documents\Ãlvaro\VR Samples\obj\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\dei-admin\Documents\Telmo\VRMaps\VR Samples\obj\Release\Assembly-CSharp.csprojResolveAssemblyReference.cache
